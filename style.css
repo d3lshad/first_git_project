@@ -1,0 +1,12 @@
+body{
+  font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+  background-image: url(media/git.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-size: 25px;
+}
+b{
+  color: red;
+
+}
